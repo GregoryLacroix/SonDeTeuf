@@ -66,6 +66,10 @@
         <div class="container">
             &copy; 2020 - GRégory Lacroix DEV - MonProjetGit
         </div>
+        <div class="container">
+            <p>lien secret </p><a target="_blank" href="https://youtu.be/06rM3wqb0yY">  ? </a>
+            <p>lien pas secret </p><a target="_blank" href="https://www.youtube.com/channel/UChuQrxghyGRnl12MgUZUOdg?view_as=subscriber">!</a>
+        </div> 
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
